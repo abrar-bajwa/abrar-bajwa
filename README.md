@@ -2,7 +2,7 @@
 
 I am a software engineer student who loves to learn new technologies!
 
-<img align="right" alt="GIF" height="300px" src="https://i.pinimg.com/originals/c1/3e/7f/c13e7f371b14f93e91808200631b8a81.gif" />
+<img align="right" alt="GIF" height="300px" width="300px" src="https://i.pinimg.com/originals/c1/3e/7f/c13e7f371b14f93e91808200631b8a81.gif" />
 
 - 🔭 I’m currently enrolled in BSSE at Usman Institute of Technology.
 - 🌱 I’m currently learning python, javascript and node.
