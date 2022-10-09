@@ -15,7 +15,7 @@ I am a software engineer student who loves to learn new technologies!
 
 
 
-![imskr's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrar-bajwa&theme=midnight-purple&show_icons=true)
+![imskr's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrar-bajwa&theme=midnight-purple&show_icons=true) <br/>
 ![imskr's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-bajwa&theme=midnight-purple&show_icons=true)
 
 <a href="https://www.linkedin.com">
