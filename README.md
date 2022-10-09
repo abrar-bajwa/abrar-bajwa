@@ -1,11 +1,13 @@
+<img align="center" alt="GIF" height="200px" width="300px" src="https://i.pinimg.com/originals/c1/3e/7f/c13e7f371b14f93e91808200631b8a81.gif" />
+
+
 ### Hi, I'm M Abrar Bajwa 👋
 
 I am a software engineer student who loves to learn new technologies!
 
-<img align="right" alt="GIF" height="200px" width="300px" src="https://i.pinimg.com/originals/c1/3e/7f/c13e7f371b14f93e91808200631b8a81.gif" />
 
 - 🔭 I’m currently enrolled in BSSE at Usman Institute of Technology.
-- 🌱 I’m currently learning python, javascript and node.
+- 🌱 I’m currently learning python and web development.
 - 👯 I’m willing to collaborate on building communitites, and research projects.
 - 📫 How to reach me: johnwick0137@gmail.com
 - 😄 Pronouns: He/Him.
