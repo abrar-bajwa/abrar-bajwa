@@ -1,5 +1,6 @@
-<img align="center" alt="GIF" height="200px" width="300px" src="https://i.pinimg.com/originals/c1/3e/7f/c13e7f371b14f93e91808200631b8a81.gif" />
-
+<p align="center" > 
+    <a href="" target="_blank"> <img height="290px"src="https://i.pinimg.com/originals/c1/3e/7f/c13e7f371b14f93e91808200631b8a81.gif"/> </a>
+<p/>
 
 ### Hi, I'm M Abrar Bajwa 👋
 
