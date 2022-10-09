@@ -12,7 +12,8 @@ I am a software engineer student who loves to learn new technologies!
 
 
 
-![imskr's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrar-bajwa&theme=moltack&show_icons=true)
+![imskr's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrar-bajwa&theme=midnight-purple&show_icons=true)
+![imskr's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cocomo29&theme=midnight-purple&show_icons=true)
 
 <a href="https://www.linkedin.com">
   <img align="left" alt="abrar's linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
